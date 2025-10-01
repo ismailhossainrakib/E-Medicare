@@ -1,5 +1,5 @@
 # E-Medicare
-E-Medicare(Hospital Management System) using MySQL, Php and Bootstrap
+E-Medicare using MySQL, Php and Bootstrap
 
 
 Live Demo :
